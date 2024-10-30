@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/Kickbut101/Proxmox/main/misc/build.func)
+source <(curl -s https://raw.githubusercontent.com/Kickbut101/Proxmox/refs/heads/frigate-beta/misc/build.func)
 # Copyright (c) 2021-2024 tteck
 # Authors: tteck (tteckster)
 # License: MIT
