@@ -4,7 +4,7 @@
 # Author: tteck (tteckster)
 # Co-Author: Scorpoon
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/Kickbut101/Proxmox/raw/main/LICENSE
 # Source: https://github.com/revenz/Fenrus
 
 
